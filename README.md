@@ -18,7 +18,7 @@ GazaCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allow
 - **Maintenance Mode**: Temporary and timed shutdown of the bot (with a dedicated page).
 
 ## Bot Previews
-![Slide 1](images/slide1.png)
+![img_thumb](https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/660761b7-cc4c-4e6b-a76c-0d37b82d09d0)
 ![Slide 2](images/slide2.png)
 ![Slide 3](images/slide3.png)
 ![Slide 4](images/slide4.png)
