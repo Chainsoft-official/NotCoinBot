@@ -18,12 +18,15 @@ GazaCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allow
 - **Maintenance Mode**: Temporary and timed shutdown of the bot (with a dedicated page).
 
 ## Bot Previews
-![img_thumb](https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/660761b7-cc4c-4e6b-a76c-0d37b82d09d0)
-![img2](https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/3c64a45a-8ca6-42ec-99b5-f83ce5ac7ecb)
-![img3](https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/b6935cf2-11ef-4601-b727-1f6dc64d9daa)
-![img4](https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/eccf3bf3-2f18-4593-ae78-1152c4a3b3ac)
-![img5](https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/1c62be6f-b5da-46ea-90af-8981a63597bf)
-![img1](https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/904aac3b-c3b9-46bb-bddd-09a134671dd5)
+<p float="left">
+  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/660761b7-cc4c-4e6b-a76c-0d37b82d09d0" width="200" />
+  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/3c64a45a-8ca6-42ec-99b5-f83ce5ac7ecb" width="200" />
+  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/b6935cf2-11ef-4601-b727-1f6dc64d9daa" width="200" />
+  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/eccf3bf3-2f18-4593-ae78-1152c4a3b3ac" width="200" />
+  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/1c62be6f-b5da-46ea-90af-8981a63597bf" width="200" />
+  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/904aac3b-c3b9-46bb-bddd-09a134671dd5" width="200" />
+</p>
+
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React
