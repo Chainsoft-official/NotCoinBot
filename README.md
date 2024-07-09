@@ -34,6 +34,10 @@ GazaCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allow
 
 ## Buying
 Contact Me: https://linktr.ee/Chainsoft.pk?utm_source=linktree_profile_share&ltsid=6fabea08-49fe-4ea4-a08c-5a8f9114d159
+<p float="left">
+  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/70b1cc8a-616e-4d51-8b7d-4db20d33c94e" width="200" />
+  
+</p>
 
 
 ## Contributing
