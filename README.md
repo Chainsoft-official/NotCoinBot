@@ -1,13 +1,13 @@
-# GazaCoinBot
+# NotCoin Bot
 
-GazaCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, JavaScript, and PHP and includes a comprehensive admin panel for managing users, activities, and other functionalities.
+NotCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, JavaScript, and PHP and includes a comprehensive admin panel for managing users, activities, and other functionalities.
 
 ## Features
 - **Interactive Game**: Users can collect points by clicking on a coin in a fun and engaging game.
 - **Authorization via Telegram**: Full authentication of the user is done by Telegram web services, ensuring no possibility of cheating.
 - **Mobile Adaptation**: Fully responsive and compatible with all types of mobile phones.
 - **DDoS Protection (CloudFlare)**: Includes a DNS protection system.
-- **Referral System (Friends)**: Users can earn additional points by inviting friends to join and play the game. Each friend added will earn the user 100 GazaTokens.
+- **Referral System (Friends)**: Users can earn additional points by inviting friends to join and play the game. Each friend added will earn the user 100 NotCoins.
 - **Daily Activities (Earn)**: Users can complete daily activities, such as completing levels and joining the Telegram community, to earn more points.
 - **Mining (Mine)**: Users can tap to increase their coin count. Once the requirements for Level 1 are met, the user will level up.
 - **Metrics (Matrics)**: Provides detailed statistics including total share balance, total touches, total players, daily users, and online players.
@@ -27,18 +27,16 @@ GazaCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allow
   <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/904aac3b-c3b9-46bb-bddd-09a134671dd5" width="200" />
 </p>
 
-
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Javascritp
+- **Backend**: JavaScript
 
 ## Buying
-Contact Me: https://linktr.ee/Chainsoft.pk?utm_source=linktree_profile_share&ltsid=6fabea08-49fe-4ea4-a08c-5a8f9114d159
+Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_profile_share&ltsid=6fabea08-49fe-4ea4-a08c-5a8f9114d159)
+
 <p float="left">
   <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/70b1cc8a-616e-4d51-8b7d-4db20d33c94e" width="200" />
-  
 </p>
-
 
 ## Contributing
 Contributions are welcome! Please create a pull request with your proposed changes and ensure they adhere to the coding standards of the project.
@@ -47,7 +45,6 @@ Contributions are welcome! Please create a pull request with your proposed chang
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-- **Telegram** : https://web.telegram.org/a/
+- **Telegram** : [Telegram](https://web.telegram.org/a/)
 - **WhatsApp** : +923066303835
-- **Instagram** : https://www.instagram.com/chainsoftofficial?utm_source=qr&igsh=MWJ5aG9kY2VtZ3VmNw==
-  
+- **Instagram** : [Instagram](https://www.instagram.com/chainsoftofficial?utm_source=qr&igsh=MWJ5aG9kY2VtZ3VmNw==)
