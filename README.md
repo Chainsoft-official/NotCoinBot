@@ -38,9 +38,6 @@ Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_ad
   <img src="https://github.com/user-attachments/assets/2cb746d8-4e4f-487f-a899-ef8512a70d46" width="200" />
 </p>
 
-## Contributing
-Contributions are welcome! Please create a pull request with your proposed changes and ensure they adhere to the coding standards of the project.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
