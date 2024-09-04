@@ -27,9 +27,7 @@ Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram
 ## Preview of Game Bot 
 
 <p align="center">
-  
-    <img src="https://img.youtube.com/vi/U6bFDPL6AmM/0.jpg" alt="Gazacoin Mini-Game Overview" width="600" />
-  
+    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" alt="Gazacoin Mini-Game Overview" width="600" />  
 </p>
   
 ### 6. "Earn" Tab with Rewarding Milestones
