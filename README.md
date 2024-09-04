@@ -23,6 +23,14 @@ Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram
   
 ### 5. NFT Integration System
 - **Exclusive NFT Bonuses**: If users hold specific NFTs within your system, they will be entitled to receive additional in-game rewards and special bonuses, providing an additional layer of engagement and investment.
+
+## Preview of Game Bot 
+
+<p align="center">
+  
+    <img src="https://img.youtube.com/vi/U6bFDPL6AmM/0.jpg" alt="Gazacoin Mini-Game Overview" width="600" />
+  
+</p>
   
 ### 6. "Earn" Tab with Rewarding Milestones
 Users can further engage with the following earning mechanisms:
