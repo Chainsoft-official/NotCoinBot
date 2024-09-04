@@ -81,7 +81,7 @@ For inquiries or support,
 contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" alt="Gazacoin Mini-Game Overview"/>
 </p>
 
 ## About Chainsoft
