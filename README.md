@@ -1,4 +1,4 @@
-# Not Coin Clone - Hamster-Kombat-Clicker - Tapswap Mini Game Clone - Telegram Mini Game Clone - Gazacoin Clone
+# Not Coin Clone | Hamster-Kombat-Clicker | Tapswap Mini Game Clone | Telegram Mini Game Clone | Gazacoin Clone
 
 Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram mini-games! We offer a clone of the most popular mini-games: **TapSwap Clone**, **Hamster Clone**, and **NotCoin Clone**. This game is equipped with a multi-level system, reward mechanisms, and seamless NFT integration. With **free installation** included, you can deploy your game quickly and effortlessly.
 
