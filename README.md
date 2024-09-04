@@ -2,6 +2,9 @@
 
 Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram mini-game! We offer clone of the most popular mini-game: **TapSwap Clone**, **Hamster Clone**, and **NotCoin Clone**. This game is equipped with a multi-level system, reward mechanisms, and seamless NFT integration. With **free installation** included, you can deploy your game quickly and effortlessly.
 
+<p float="center">
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" />
+</p>
 ## Features Overview
 
 ### 1. Progressive Level System
@@ -27,10 +30,10 @@ Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram
 ## Preview of Game Bot 
 
 <p float="center">
- <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="600" />
-  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="600" />
-  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="600" />
-  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="600" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="400" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="400" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="400" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="400" />
 </p>
 
 
@@ -50,7 +53,7 @@ Users can further engage with the following earning mechanisms:
 
 <p align="center">
   <a href="https://www.chainsoft.pk/taptoearn" target="_blank">
-    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Laptop%20Mockup.png" alt="Gazacoin Mini-Game Overview" width="600" />
+    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Laptop%20Mockup.png" alt="Gazacoin Mini-Game Overview" />
   </a>
 </p>
 
@@ -65,11 +68,18 @@ Our clones come with a **user-friendly admin panel** that gives you full control
 The **source code** for our mini-game clones is priced at **300 USDT (ERC20)**, which includes **free installation** to ensure a hassle-free setup. You'll get a fully functional, ready-to-use game deployed on your Telegram server.
 
 ## How to Buy
-To purchase our game clones or inquire further, please visit our official [Website](https://yourwebsite.com). You can also reach us via [Linktree](https://linktr.ee/chainsoft) for additional contact options and support.
+To purchase our game clones 
+please visit our official [Website](https://www.chainsoft.pk/taptoearn).
+or inquire further,
+Contact Us: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+</p>
 
 ## About Chainsoft
 At **Chainsoft**, we are committed to developing high-quality, customizable mini-game solutions for Telegram. Our mission is to provide you with a fully interactive, user-friendly, and engaging game environment that will grow your community and increase user retention. With our advanced features like level progression, NFT integration, and seamless admin control, we offer the best tools to elevate your gaming platform.
 
 ---
 
-For any further questions or support, please don't hesitate to contact us via our [Website](https://yourwebsite.com) or [Linktree](https://linktr.ee/chainsoft).
+For any further questions or support, please don't hesitate to contact us via our [Website](https://www.chainsoft.pk/) or  [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
