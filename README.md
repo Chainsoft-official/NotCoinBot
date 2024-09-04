@@ -27,10 +27,10 @@ Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram
 ## Preview of Game Bot 
 
 <p float="center">
- <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="400" />
-  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="400" />
-  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="400" />
-  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="400" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="600" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="600" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="600" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="600" />
 </p>
 
 
@@ -50,7 +50,7 @@ Users can further engage with the following earning mechanisms:
 
 <p align="center">
   <a href="https://www.chainsoft.pk/taptoearn" target="_blank">
-    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Laptop-Mockup.png" alt="Gazacoin Mini-Game Overview" width="600" />
+    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Laptop%20Mockup.png" alt="Gazacoin Mini-Game Overview" width="600" />
   </a>
 </p>
 
