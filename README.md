@@ -68,8 +68,13 @@ Our clones come with a **user-friendly admin panel** that gives you full control
 The **source code** for our mini-game clones is priced at **300 USDT (ERC20)**, which includes **free installation** to ensure a hassle-free setup. You'll get a fully functional, ready-to-use game deployed on your Telegram server.
 
 ## How to Buy
-To purchase our game clone, please visit our official [Website](https://www.chainsoft.pk/taptoearn).
-For inquiries or support, contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
+To purchase our game clone,
+
+please visit our official [Website](https://www.chainsoft.pk/taptoearn).
+
+For inquiries or support,
+
+contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
