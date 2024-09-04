@@ -26,10 +26,14 @@ Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram
 
 ## Preview of Game Bot 
 
-<p align="center">
-    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" alt="Gazacoin Mini-Game Overview" width="600" />  
+<p float="center">
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="400" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="400" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="400" />
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="400" />
 </p>
-  
+
+
 ### 6. "Earn" Tab with Rewarding Milestones
 Users can further engage with the following earning mechanisms:
 - **Referral Level System**: As players refer more users, their referral level increases, unlocking even greater rewards.
@@ -41,6 +45,14 @@ Users can further engage with the following earning mechanisms:
 
 ### 7. Airdrop Integration
 - **TON Wallet Support**: When players connect their TON wallet, you will collect their wallet addresses, which can later be used for distributing airdrops. This makes it easy to engage with users through targeted reward campaigns or giveaways.
+
+## Admin Panel in Action
+
+<p align="center">
+  <a href="https://www.chainsoft.pk/taptoearn" target="_blank">
+    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Laptop-Mockup.png" alt="Gazacoin Mini-Game Overview" width="600" />
+  </a>
+</p>
 
 ### 8. Admin Panel - Full Control at Your Fingertips
 Our clones come with a **user-friendly admin panel** that gives you full control over every aspect of the game. Key features of the admin panel include:
